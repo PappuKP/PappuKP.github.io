@@ -10,7 +10,8 @@ Open [https://pappukp.github.io/ConnectMe/](https://pappukp.github.io/ConnectMe/
 
 1. Connect Playing Website
 Open [https://playwithme.netlify.com/](https://playwithme.netlify.com/) to view it in the browser.<br/>
-Open [https://pappukp.github.io/speedy-word-web-app/](https://pappukp.github.io/speedy-word-web-app/) to view it in the browser.
+
+1. Open [https://pappukp.github.io/speedy-word-web-app/](https://pappukp.github.io/speedy-word-web-app/) to view it in the browser.
 
 ### Portfolio Website is Area get it here
 
