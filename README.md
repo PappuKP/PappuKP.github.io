@@ -9,7 +9,7 @@ Open [https://pappukp.github.io/ConnectMe/](https://pappukp.github.io/ConnectMe/
 ### Playing Website is Area get it here
 
 1. Connect Playing Website
-Open [https://playwithme.netlify.com/](https://playwithme.netlify.com/) to view it in the browser.
+Open [https://playwithme.netlify.com/](https://playwithme.netlify.com/) to view it in the browser.<br/>
 Open [https://pappukp.github.io/playwithme/](https://pappukp.github.io/playwithme/) to view it in the browser.
 
 ### Portfolio Website is Area get it here
